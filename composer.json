@@ -1,5 +1,5 @@
 {
-    "name": "nietonfir/google-recaptcha-bundle",
+    "name": "holmesmedia/google-recaptcha-bundle",
     "description": "Symfony2 bundle for integrating nietonfir/google-recaptcha (simplifying the server-side validation of Google's 'No CAPTCHA reCAPTCHA')",
     "keywords": [
         "google",
